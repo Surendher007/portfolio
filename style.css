@@ -1,0 +1,16 @@
+
+
+.box{
+    pad: 30px 60px;
+}
+
+.box-part{
+    background-color: rgb(230, 219, 219);
+    text-align: center;
+    padding: 40px 20px;
+    margin: 20px 20px 20px 15px;
+}
+
+.fat{
+    color: blue;
+}
